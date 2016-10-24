@@ -1,0 +1,36 @@
+La ultima vez que fui a un hostal,
+observe a que todos sus procesos de alquiler
+de habitacion se lo realizan manualmente, por 
+lo tanto la automatizacion mediante un sistema 
+que permita reducir el tiempo,dinero etc.
+para el alquiler.
+he aqui sistema informatico de control de habitaciones
+que permite el registro de huspedes, habitacion, alquiler y reportes etc
+que esta bajo la programacion de Visual studio .net y SQL SERVER 2008,
+comparto esto para que usted puedan fundamentar mas y tener la capacidad
+de desarrollar sistemas complejos , ademas esta con la arquitectura de N capas
+
+link: https://www.youtube.com/watch?v=A8l3QFSwMmg
+
+
+
+(Tutorial - Descargar) sistema informático de control de habitaciones
+que permite el registro de huéspedes, habitación, alquiler y reportes etc
+que esta bajo la programación de Visual studio .net y SQL SERVER 2008,
+comparto esto para que usted puedan fundamentar mas y tener la capacidad
+de desarrollar sistemas complejos , ademas esta con la arquitectura de N capas
+link de descripción
+
+http://adf.ly/1VW8At
+
+
+
+
+
+
+
+
+
+
+
+

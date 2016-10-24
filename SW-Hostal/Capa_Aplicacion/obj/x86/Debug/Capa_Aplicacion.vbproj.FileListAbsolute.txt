@@ -1,0 +1,128 @@
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.Resources.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbproj.GenerateResource.Cache
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.exe
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.pdb
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.xml
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.exe
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.xml
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.pdb
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmLogin.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarClientes.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarHabitacion.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarTipoHabitacion.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistarAlquiler.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.MDIHostal_Viletta.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.exe
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.xml
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.pdb
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.exe
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.pdb
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.xml
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmLogin.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistarAlquiler.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarClientes.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarHabitacion.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarTipoHabitacion.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.MDIHostal_Viletta.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.Resources.resources
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbproj.GenerateResource.Cache
+G:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.exe
+G:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.xml
+G:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmBuscarCliente.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmBuscarHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmDetalleAlquiler.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmDetalleHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmLogin.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistarAlquiler.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarClientes.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarTipoHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.MDIHostal_Viletta.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmReportes.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbprojResolveAssemblyReference.cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmBuscarCliente.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmBuscarHabitacion.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmDetalleAlquiler.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmDetalleHabitacion.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmLogin.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistarAlquiler.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarClientes.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarHabitacion.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarTipoHabitacion.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmReportes.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.MDIHostal_Viletta.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.Resources.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbproj.GenerateResource.Cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.frmreporteDiario.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\office.dll
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\office.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Aplicacion.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\office.dll
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Negocio.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\bin\Debug\office.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmBuscarCliente.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmBuscarHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmDetalleAlquiler.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmDetalleHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmLogin.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistarAlquiler.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarClientes.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmRegistrarTipoHabitacion.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.frmreporteDiario.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.FrmReportes.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.MDIHostal_Viletta.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Aplicacion\obj\x86\Debug\Capa_Aplicacion.vbproj.GenerateResource.Cache

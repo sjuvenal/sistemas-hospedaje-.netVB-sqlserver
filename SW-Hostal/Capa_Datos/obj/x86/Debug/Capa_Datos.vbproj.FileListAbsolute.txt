@@ -1,0 +1,50 @@
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\obj\x86\Debug\Capa_Datos.Resources.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\obj\x86\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\bin\Debug\Capa_Datos.exe
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\bin\Debug\Capa_Datos.pdb
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\bin\Debug\Capa_Datos.xml
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\obj\x86\Debug\Capa_Datos.exe
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\obj\x86\Debug\Capa_Datos.xml
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Datos\obj\x86\Debug\Capa_Datos.pdb
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.exe
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.xml
+H:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.pdb
+G:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.exe
+G:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.xml
+G:\University\2015 - II\calidad de software\proyecto\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.Resources.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Datos\obj\x86\Debug\Capa_Datos.pdb

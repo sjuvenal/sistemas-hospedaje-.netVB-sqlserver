@@ -1,0 +1,24 @@
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.Resources.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.vbproj.GenerateResource.Cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Entidades\obj\x86\Debug\Capa_Entidades.pdb

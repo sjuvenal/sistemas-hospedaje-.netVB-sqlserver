@@ -1,0 +1,53 @@
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\obj\x86\Debug\Capa_Negocio.Resources.resources
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbproj.GenerateResource.Cache
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\bin\Debug\Capa_Negocio.exe
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\bin\Debug\Capa_Negocio.xml
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\obj\x86\Debug\Capa_Negocio.exe
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\obj\x86\Debug\Capa_Negocio.xml
+c:\users\juvenal\documents\visual studio 2010\projects\Capa_Negocio\Capa_Negocio\obj\x86\Debug\Capa_Negocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\proyecto sofwtare\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.Resources.resources
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbproj.GenerateResource.Cache
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.exe
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.xml
+C:\Users\Cecilia Pc\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Negocio.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Datos.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\bin\Debug\Capa_Entidades.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\SW-Hostal\Capa_Negocio\obj\x86\Debug\Capa_Negocio.pdb
